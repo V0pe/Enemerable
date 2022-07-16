@@ -1,73 +1,47 @@
+# ruby-my-enumerable
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
-
-> Description the project.
-
+> This repo hosts a nifty ruby program implements the following methods (`all?` `any?` and `#filter`) 
+> which have the same funcionality as methods in Ruby's official Enumerable Mixin/Module
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
+- **Ruby**
+  
 
 ### Setup
 
-### Install
+- Clone the project
+```terminal
+git clone <https://github.com/V0pe/Enemerable.git>
+```
 
-### Usage
+- cd into the project directory
+```terminal
+cd <local folder>
+```
 
-### Run tests
+## Author
 
-### Deployment
+👤 **Ugochukwu**
 
+- GitHub: [Mikelobi](https://github.com/Mikelobi)
+- Twitter: [Mikelobi](https://twitter.com/omulum)
+- LinkedIn: [Mikelobi](https://www.linkedin.com/in/ugochukwu.omulu/)
 
+👤 **Victor Damola**
 
-## Authors
+- GitHub: [@V0pe](https://github.com/V0pe)
+- Twitter: [@de_vope_](https://twitter.com/de_vope)
+- LinkedIn: [Victor Damola](https://linkedin.com/in/victor-damola-aderibigbe-27931ab0)
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Mikelobi/decode-morse/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
