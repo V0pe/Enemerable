@@ -1,4 +1,4 @@
-require_relative './my_enumerable'
+require_relative 'my_enumerable'
 
 # My List
 class MyList
@@ -9,6 +9,8 @@ class MyList
   end
 
   def each(&block)
+    return @list.to_enum(:each) unless block_given?
+
     @list.each(&block)
   end
 end
