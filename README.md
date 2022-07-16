@@ -1,16 +1,26 @@
 # ruby-morse-code
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-> This repo hosts a nifty ruby program which allows you to decipher morse code into english.
+# ruby-my-enumerable
+> This repo hosts a nifty ruby program implements the following methods (`all?` `any?` and `#filter`) 
+> which have the same funcionality as methods in Ruby's official Enumerable Mixin/Module
 
 ## Built With
 
 - **Ruby**
   
 
-## Getting Started
+### Setup
 
-Clone the project, make sure you have ruby installed and you are good to go
+- Clone the project
+```terminal
+git clone <https://github.com/V0pe/Enemerable.git>
+```
+
+- cd into the project directory
+```terminal
+cd <local folder>
+```
 
 ## Author
 
