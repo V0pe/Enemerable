@@ -1,7 +1,6 @@
-# ruby-morse-code
+# ruby-my-enumerable
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# ruby-my-enumerable
 > This repo hosts a nifty ruby program implements the following methods (`all?` `any?` and `#filter`) 
 > which have the same funcionality as methods in Ruby's official Enumerable Mixin/Module
 
